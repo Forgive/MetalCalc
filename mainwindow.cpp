@@ -49,7 +49,7 @@ void MainWindow::scraptoref()
 
 void MainWindow::about()
 {
-    QMessageBox::information(this, "About", "<font size=10>By Viderizer 2012</font>");
+    QMessageBox::information(this, "About", "<font size=4>By Viderizer 2012</font>");
 }
 
 void MainWindow::add()
